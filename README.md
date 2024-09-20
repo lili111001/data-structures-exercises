@@ -8,4 +8,3 @@ Some practice project to use and understand data structures. From the basics, to
 - Stack
 - Queue
 - Tree
-- Binary Tree
